@@ -18,3 +18,9 @@ A més podem incloure codi, tant de forma inline: `com ara aquest text`, com cod
 ```java
 String hola="Hola Món";
 System.Out.Println(hola);
+```
+També es pot incloure taules:
+| Titol 1 | Titol 2 |
+|---------|---------|
+| Celda 1 | Celda 3 |
+| Celda 2 | Celda 4 |
