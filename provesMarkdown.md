@@ -15,6 +15,6 @@ també imatges:
 ![Logotip del curs d'Aules](imatges/fondo.jpg)
 
 A més podem incloure codi, tant de forma inline: `com ara aquest text`, com codi en bloc:
-`java
+```java
 String hola="Hola Món";
 System.Out.Println(hola);
