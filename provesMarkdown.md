@@ -10,9 +10,10 @@ I llistes desordenades:
 
 * Item 1
 * Item 2...
-I incloure [enllaços](https://https://github.com/DonComedia85/entorns_13-11) i com ja vam veure,
+I incloure [enllaços](https://github.com/DonComedia85/entorns_13-11) i com ja vam veure,
 també imatges:
 ![Logotip del curs d'Aules](imatges/fondo.jpg)
+
 A més podem incloure codi, tant de forma inline: `com ara aquest text`, com codi en bloc:
 `java
 String hola="Hola Món";
